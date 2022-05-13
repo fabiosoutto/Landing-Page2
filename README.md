@@ -1,4 +1,4 @@
-# Landing-Page2
+# Landing Page modelo 2
 
 Landing page simples feita em HTML5 e CSS3 com formulário de captura de leads.
 
